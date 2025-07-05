@@ -68,7 +68,7 @@ h3{
 {
     color: rgb(255, 255, 255);
     background-color: rgb(121, 101, 98);
-    cursor: poin\er;
+    cursor: pointer;
     transition: background 0.3s;
 }
 .login-container input[type="submit"]:hover
